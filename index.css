@@ -56,11 +56,10 @@ p {
 }
 
 .bottomIconContainer {
-  display: flex; 
-  flex-direction: row; 
+  display: flex;
+  flex-direction: row;
   padding-top: 40px;
 }
-
 
 .icon2:hover {
   width: 38%;
@@ -73,18 +72,6 @@ p {
   animation-iteration-count: infinite;
   animation-timing-function: ease-in-out;
 }
-
-/* @keyframes icon1 {
-  from {
-    transform: translate(-60, -0px);
-  }
-  65% {
-    transform: translate(20, 30px);
-  }
-  to {
-    transform: translate(-0, 0px);
-  }
-} */
 
 .icon1:hover {
   width: 38%;
@@ -129,7 +116,6 @@ h1 {
 
 .iconH1 {
   margin-top: 190px;
-
 }
 
 .icon2 {
@@ -153,8 +139,8 @@ h1 {
   }
 }
 
-.iconBtn{
-  width:70px;
+.iconBtn {
+  width: 70px;
 }
 
 @media only screen and (max-width: 1000px) {
@@ -191,7 +177,7 @@ h1 {
   .explainerVid {
     width: 100%;
   }
-  .iconH1{
-    margin-top: 180px
+  .iconH1 {
+    margin-top: 180px;
   }
 }
